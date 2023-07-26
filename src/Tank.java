@@ -33,7 +33,6 @@ public class Tank {
             return napravlenie;
         }
     }
-    int z;
 
 
     int turnLeft() {
